@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AghashirHadiyev
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 👀 I’m working as a Senior Data Engineer
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me aghashir08@gmail.com
 
